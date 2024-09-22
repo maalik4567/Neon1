@@ -1,0 +1,598 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D44D52-16FD-4B0E-8FBF-7845FDE86382}|HR-Managamenr-System\\HR-Managament-System.csproj|c:\\users\\user\\desktop\\abmalik-work\\hr-managamenr-system\\hr-managamenr-system\\hr-managamenr-system\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0D44D52-16FD-4B0E-8FBF-7845FDE86382}|HR-Managamenr-System\\HR-Managament-System.csproj|solutionrelative:hr-managamenr-system\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D44D52-16FD-4B0E-8FBF-7845FDE86382}|HR-Managamenr-System\\HR-Managament-System.csproj|C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\hr-managamenr-system\\views\\student\\editstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0D44D52-16FD-4B0E-8FBF-7845FDE86382}|HR-Managamenr-System\\HR-Managament-System.csproj|solutionrelative:hr-managamenr-system\\views\\student\\editstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D44D52-16FD-4B0E-8FBF-7845FDE86382}|HR-Managamenr-System\\HR-Managament-System.csproj|C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\hr-managamenr-system\\models\\signinmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0D44D52-16FD-4B0E-8FBF-7845FDE86382}|HR-Managamenr-System\\HR-Managament-System.csproj|solutionrelative:hr-managamenr-system\\models\\signinmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D44D52-16FD-4B0E-8FBF-7845FDE86382}|HR-Managamenr-System\\HR-Managament-System.csproj|C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\hr-managamenr-system\\models\\studentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0D44D52-16FD-4B0E-8FBF-7845FDE86382}|HR-Managamenr-System\\HR-Managament-System.csproj|solutionrelative:hr-managamenr-system\\models\\studentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D44D52-16FD-4B0E-8FBF-7845FDE86382}|HR-Managamenr-System\\HR-Managament-System.csproj|c:\\users\\user\\desktop\\abmalik-work\\hr-managamenr-system\\hr-managamenr-system\\hr-managamenr-system\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0D44D52-16FD-4B0E-8FBF-7845FDE86382}|HR-Managamenr-System\\HR-Managament-System.csproj|solutionrelative:hr-managamenr-system\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D44D52-16FD-4B0E-8FBF-7845FDE86382}|HR-Managamenr-System\\HR-Managament-System.csproj|C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\hr-managamenr-system\\views\\employee\\updateemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0D44D52-16FD-4B0E-8FBF-7845FDE86382}|HR-Managamenr-System\\HR-Managament-System.csproj|solutionrelative:hr-managamenr-system\\views\\employee\\updateemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D44D52-16FD-4B0E-8FBF-7845FDE86382}|HR-Managamenr-System\\HR-Managament-System.csproj|C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\hr-managamenr-system\\views\\employee\\empdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0D44D52-16FD-4B0E-8FBF-7845FDE86382}|HR-Managamenr-System\\HR-Managament-System.csproj|solutionrelative:hr-managamenr-system\\views\\employee\\empdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D44D52-16FD-4B0E-8FBF-7845FDE86382}|HR-Managamenr-System\\HR-Managament-System.csproj|C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\hr-managamenr-system\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0D44D52-16FD-4B0E-8FBF-7845FDE86382}|HR-Managamenr-System\\HR-Managament-System.csproj|solutionrelative:hr-managamenr-system\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D44D52-16FD-4B0E-8FBF-7845FDE86382}|HR-Managamenr-System\\HR-Managament-System.csproj|C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\hr-managamenr-system\\views\\mainhome\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0D44D52-16FD-4B0E-8FBF-7845FDE86382}|HR-Managamenr-System\\HR-Managament-System.csproj|solutionrelative:hr-managamenr-system\\views\\mainhome\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D44D52-16FD-4B0E-8FBF-7845FDE86382}|HR-Managamenr-System\\HR-Managament-System.csproj|C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\hr-managamenr-system\\views\\employee\\createemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0D44D52-16FD-4B0E-8FBF-7845FDE86382}|HR-Managamenr-System\\HR-Managament-System.csproj|solutionrelative:hr-managamenr-system\\views\\employee\\createemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D44D52-16FD-4B0E-8FBF-7845FDE86382}|HR-Managamenr-System\\HR-Managament-System.csproj|C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\hr-managamenr-system\\controllers\\mainhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0D44D52-16FD-4B0E-8FBF-7845FDE86382}|HR-Managamenr-System\\HR-Managament-System.csproj|solutionrelative:hr-managamenr-system\\controllers\\mainhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D44D52-16FD-4B0E-8FBF-7845FDE86382}|HR-Managamenr-System\\HR-Managament-System.csproj|C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\hr-managamenr-system\\views\\student\\studentindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0D44D52-16FD-4B0E-8FBF-7845FDE86382}|HR-Managamenr-System\\HR-Managament-System.csproj|solutionrelative:hr-managamenr-system\\views\\student\\studentindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D44D52-16FD-4B0E-8FBF-7845FDE86382}|HR-Managamenr-System\\HR-Managament-System.csproj|C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\hr-managamenr-system\\models\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0D44D52-16FD-4B0E-8FBF-7845FDE86382}|HR-Managamenr-System\\HR-Managament-System.csproj|solutionrelative:hr-managamenr-system\\models\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D44D52-16FD-4B0E-8FBF-7845FDE86382}|HR-Managamenr-System\\HR-Managament-System.csproj|C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\hr-managamenr-system\\models\\courses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0D44D52-16FD-4B0E-8FBF-7845FDE86382}|HR-Managamenr-System\\HR-Managament-System.csproj|solutionrelative:hr-managamenr-system\\models\\courses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D44D52-16FD-4B0E-8FBF-7845FDE86382}|HR-Managamenr-System\\HR-Managament-System.csproj|C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\hr-managamenr-system\\views\\employee\\listemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0D44D52-16FD-4B0E-8FBF-7845FDE86382}|HR-Managamenr-System\\HR-Managament-System.csproj|solutionrelative:hr-managamenr-system\\views\\employee\\listemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D44D52-16FD-4B0E-8FBF-7845FDE86382}|HR-Managamenr-System\\HR-Managament-System.csproj|C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\hr-managamenr-system\\views\\employee\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0D44D52-16FD-4B0E-8FBF-7845FDE86382}|HR-Managamenr-System\\HR-Managament-System.csproj|solutionrelative:hr-managamenr-system\\views\\employee\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D44D52-16FD-4B0E-8FBF-7845FDE86382}|HR-Managamenr-System\\HR-Managament-System.csproj|C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\hr-managamenr-system\\models\\classes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0D44D52-16FD-4B0E-8FBF-7845FDE86382}|HR-Managamenr-System\\HR-Managament-System.csproj|solutionrelative:hr-managamenr-system\\models\\classes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D44D52-16FD-4B0E-8FBF-7845FDE86382}|HR-Managamenr-System\\HR-Managament-System.csproj|C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\hr-managamenr-system\\views\\home\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0D44D52-16FD-4B0E-8FBF-7845FDE86382}|HR-Managamenr-System\\HR-Managament-System.csproj|solutionrelative:hr-managamenr-system\\views\\home\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D44D52-16FD-4B0E-8FBF-7845FDE86382}|HR-Managamenr-System\\HR-Managament-System.csproj|C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\hr-managamenr-system\\models\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0D44D52-16FD-4B0E-8FBF-7845FDE86382}|HR-Managamenr-System\\HR-Managament-System.csproj|solutionrelative:hr-managamenr-system\\models\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D44D52-16FD-4B0E-8FBF-7845FDE86382}|HR-Managamenr-System\\HR-Managament-System.csproj|C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\hr-managamenr-system\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0D44D52-16FD-4B0E-8FBF-7845FDE86382}|HR-Managamenr-System\\HR-Managament-System.csproj|solutionrelative:hr-managamenr-system\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D44D52-16FD-4B0E-8FBF-7845FDE86382}|HR-Managamenr-System\\HR-Managament-System.csproj|C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\hr-managamenr-system\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0D44D52-16FD-4B0E-8FBF-7845FDE86382}|HR-Managamenr-System\\HR-Managament-System.csproj|solutionrelative:hr-managamenr-system\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D44D52-16FD-4B0E-8FBF-7845FDE86382}|HR-Managamenr-System\\HR-Managament-System.csproj|C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\hr-managamenr-system\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0D44D52-16FD-4B0E-8FBF-7845FDE86382}|HR-Managamenr-System\\HR-Managament-System.csproj|solutionrelative:hr-managamenr-system\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D44D52-16FD-4B0E-8FBF-7845FDE86382}|HR-Managamenr-System\\HR-Managament-System.csproj|C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\hr-managamenr-system\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0D44D52-16FD-4B0E-8FBF-7845FDE86382}|HR-Managamenr-System\\HR-Managament-System.csproj|solutionrelative:hr-managamenr-system\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D44D52-16FD-4B0E-8FBF-7845FDE86382}|HR-Managamenr-System\\HR-Managamenr-System.csproj|C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\hr-managamenr-system\\views\\home\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0D44D52-16FD-4B0E-8FBF-7845FDE86382}|HR-Managamenr-System\\HR-Managamenr-System.csproj|solutionrelative:hr-managamenr-system\\views\\home\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D44D52-16FD-4B0E-8FBF-7845FDE86382}|HR-Managamenr-System\\HR-Managamenr-System.csproj|C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\hr-managamenr-system\\models\\signinmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0D44D52-16FD-4B0E-8FBF-7845FDE86382}|HR-Managamenr-System\\HR-Managamenr-System.csproj|solutionrelative:hr-managamenr-system\\models\\signinmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D44D52-16FD-4B0E-8FBF-7845FDE86382}|HR-Managamenr-System\\HR-Managamenr-System.csproj|C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\hr-managamenr-system\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0D44D52-16FD-4B0E-8FBF-7845FDE86382}|HR-Managamenr-System\\HR-Managamenr-System.csproj|solutionrelative:hr-managamenr-system\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D44D52-16FD-4B0E-8FBF-7845FDE86382}|HR-Managamenr-System\\HR-Managamenr-System.csproj|C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\hr-managamenr-system\\views\\employee\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0D44D52-16FD-4B0E-8FBF-7845FDE86382}|HR-Managamenr-System\\HR-Managamenr-System.csproj|solutionrelative:hr-managamenr-system\\views\\employee\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D44D52-16FD-4B0E-8FBF-7845FDE86382}|HR-Managamenr-System\\HR-Managamenr-System.csproj|C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\hr-managamenr-system\\views\\employee\\listemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0D44D52-16FD-4B0E-8FBF-7845FDE86382}|HR-Managamenr-System\\HR-Managamenr-System.csproj|solutionrelative:hr-managamenr-system\\views\\employee\\listemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D44D52-16FD-4B0E-8FBF-7845FDE86382}|HR-Managamenr-System\\HR-Managamenr-System.csproj|C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\hr-managamenr-system\\models\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0D44D52-16FD-4B0E-8FBF-7845FDE86382}|HR-Managamenr-System\\HR-Managamenr-System.csproj|solutionrelative:hr-managamenr-system\\models\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D44D52-16FD-4B0E-8FBF-7845FDE86382}|HR-Managamenr-System\\HR-Managamenr-System.csproj|C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\hr-managamenr-system\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0D44D52-16FD-4B0E-8FBF-7845FDE86382}|HR-Managamenr-System\\HR-Managamenr-System.csproj|solutionrelative:hr-managamenr-system\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D44D52-16FD-4B0E-8FBF-7845FDE86382}|HR-Managamenr-System\\HR-Managament-System.csproj|C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\hr-managamenr-system\\content\\style-emp.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C0D44D52-16FD-4B0E-8FBF-7845FDE86382}|HR-Managamenr-System\\HR-Managament-System.csproj|solutionrelative:hr-managamenr-system\\content\\style-emp.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D44D52-16FD-4B0E-8FBF-7845FDE86382}|HR-Managamenr-System\\HR-Managament-System.csproj|C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\hr-managamenr-system\\images\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0D44D52-16FD-4B0E-8FBF-7845FDE86382}|HR-Managamenr-System\\HR-Managament-System.csproj|solutionrelative:hr-managamenr-system\\images\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D44D52-16FD-4B0E-8FBF-7845FDE86382}|HR-Managamenr-System\\HR-Managament-System.csproj|C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\hr-managamenr-system\\content\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C0D44D52-16FD-4B0E-8FBF-7845FDE86382}|HR-Managamenr-System\\HR-Managament-System.csproj|solutionrelative:hr-managamenr-system\\content\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D44D52-16FD-4B0E-8FBF-7845FDE86382}|HR-Managamenr-System\\HR-Managament-System.csproj|C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\hr-managamenr-system\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0D44D52-16FD-4B0E-8FBF-7845FDE86382}|HR-Managamenr-System\\HR-Managament-System.csproj|solutionrelative:hr-managamenr-system\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 372,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\HR-Managamenr-System\\Models\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "HR-Managamenr-System\\Models\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\HR-Managamenr-System\\Models\\EmployeeRepository.cs",
+              "RelativeToolTip": "HR-Managamenr-System\\Models\\EmployeeRepository.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAAAJYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T13:20:48.888Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\HR-Managamenr-System\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "HR-Managamenr-System\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\HR-Managamenr-System\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "HR-Managamenr-System\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAEwFkAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T17:44:41.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\HR-Managamenr-System\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "HR-Managamenr-System\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\HR-Managamenr-System\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "HR-Managamenr-System\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T20:25:51.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EditStudent.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\HR-Managamenr-System\\Views\\Student\\EditStudent.cshtml",
+              "RelativeDocumentMoniker": "HR-Managamenr-System\\Views\\Student\\EditStudent.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\HR-Managamenr-System\\Views\\Student\\EditStudent.cshtml",
+              "RelativeToolTip": "HR-Managamenr-System\\Views\\Student\\EditStudent.cshtml",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAgwGYAAACUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T16:49:53.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\HR-Managamenr-System\\Models\\StudentViewModel.cs",
+              "RelativeDocumentMoniker": "HR-Managamenr-System\\Models\\StudentViewModel.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\HR-Managamenr-System\\Models\\StudentViewModel.cs",
+              "RelativeToolTip": "HR-Managamenr-System\\Models\\StudentViewModel.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T21:06:15.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateEmployee.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\HR-Managamenr-System\\Views\\Employee\\UpdateEmployee.cshtml",
+              "RelativeDocumentMoniker": "HR-Managamenr-System\\Views\\Employee\\UpdateEmployee.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\HR-Managamenr-System\\Views\\Employee\\UpdateEmployee.cshtml",
+              "RelativeToolTip": "HR-Managamenr-System\\Views\\Employee\\UpdateEmployee.cshtml",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAAAFIAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T17:04:52.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SignInModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\HR-Managamenr-System\\Models\\SignInModel.cs",
+              "RelativeDocumentMoniker": "HR-Managamenr-System\\Models\\SignInModel.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\HR-Managamenr-System\\Models\\SignInModel.cs",
+              "RelativeToolTip": "HR-Managamenr-System\\Models\\SignInModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T18:52:19.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\HR-Managamenr-System\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "HR-Managamenr-System\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\HR-Managamenr-System\\Models\\Student.cs",
+              "RelativeToolTip": "HR-Managamenr-System\\Models\\Student.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAuwCoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T17:45:32.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmpDetail.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\HR-Managamenr-System\\Views\\Employee\\EmpDetail.cshtml",
+              "RelativeDocumentMoniker": "HR-Managamenr-System\\Views\\Employee\\EmpDetail.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\HR-Managamenr-System\\Views\\Employee\\EmpDetail.cshtml",
+              "RelativeToolTip": "HR-Managamenr-System\\Views\\Employee\\EmpDetail.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAgwDMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T16:45:09.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\HR-Managamenr-System\\Views\\MainHome\\Index.cshtml",
+              "RelativeDocumentMoniker": "HR-Managamenr-System\\Views\\MainHome\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\HR-Managamenr-System\\Views\\MainHome\\Index.cshtml",
+              "RelativeToolTip": "HR-Managamenr-System\\Views\\MainHome\\Index.cshtml",
+              "ViewState": "AgIAABwAAAAAAAAAAAAYwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T18:02:54.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateEmployee.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\HR-Managamenr-System\\Views\\Employee\\CreateEmployee.cshtml",
+              "RelativeDocumentMoniker": "HR-Managamenr-System\\Views\\Employee\\CreateEmployee.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\HR-Managamenr-System\\Views\\Employee\\CreateEmployee.cshtml",
+              "RelativeToolTip": "HR-Managamenr-System\\Views\\Employee\\CreateEmployee.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T14:37:10.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainHomeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\HR-Managamenr-System\\Controllers\\MainHomeController.cs",
+              "RelativeDocumentMoniker": "HR-Managamenr-System\\Controllers\\MainHomeController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\HR-Managamenr-System\\Controllers\\MainHomeController.cs",
+              "RelativeToolTip": "HR-Managamenr-System\\Controllers\\MainHomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T18:02:40.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\HR-Managamenr-System\\Models\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "HR-Managamenr-System\\Models\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\HR-Managamenr-System\\Models\\StudentRepository.cs",
+              "RelativeToolTip": "HR-Managamenr-System\\Models\\StudentRepository.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAEwF0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T21:18:34.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StudentIndex.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\HR-Managamenr-System\\Views\\Student\\StudentIndex.cshtml",
+              "RelativeDocumentMoniker": "HR-Managamenr-System\\Views\\Student\\StudentIndex.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\HR-Managamenr-System\\Views\\Student\\StudentIndex.cshtml",
+              "RelativeToolTip": "HR-Managamenr-System\\Views\\Student\\StudentIndex.cshtml",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAAI4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T17:45:47.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Courses.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\HR-Managamenr-System\\Models\\Courses.cs",
+              "RelativeDocumentMoniker": "HR-Managamenr-System\\Models\\Courses.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\HR-Managamenr-System\\Models\\Courses.cs",
+              "RelativeToolTip": "HR-Managamenr-System\\Models\\Courses.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T21:03:49.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ListEmployee.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\HR-Managamenr-System\\Views\\Employee\\ListEmployee.cshtml",
+              "RelativeDocumentMoniker": "HR-Managamenr-System\\Views\\Employee\\ListEmployee.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\HR-Managamenr-System\\Views\\Employee\\ListEmployee.cshtml",
+              "RelativeToolTip": "HR-Managamenr-System\\Views\\Employee\\ListEmployee.cshtml",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAAAJEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T13:20:53.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Success.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\HR-Managamenr-System\\Views\\Employee\\Success.cshtml",
+              "RelativeDocumentMoniker": "HR-Managamenr-System\\Views\\Employee\\Success.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\HR-Managamenr-System\\Views\\Employee\\Success.cshtml",
+              "RelativeToolTip": "HR-Managamenr-System\\Views\\Employee\\Success.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAYwCwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T13:45:33.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Classes.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\HR-Managamenr-System\\Models\\Classes.cs",
+              "RelativeDocumentMoniker": "HR-Managamenr-System\\Models\\Classes.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\HR-Managamenr-System\\Models\\Classes.cs",
+              "RelativeToolTip": "HR-Managamenr-System\\Models\\Classes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T20:13:42.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SignIn.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\HR-Managamenr-System\\Views\\Home\\SignIn.cshtml",
+              "RelativeDocumentMoniker": "HR-Managamenr-System\\Views\\Home\\SignIn.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\HR-Managamenr-System\\Views\\Home\\SignIn.cshtml",
+              "RelativeToolTip": "HR-Managamenr-System\\Views\\Home\\SignIn.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwCQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T19:03:19.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\HR-Managamenr-System\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "HR-Managamenr-System\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\HR-Managamenr-System\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "HR-Managamenr-System\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA6wB0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T14:11:16.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\HR-Managamenr-System\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "HR-Managamenr-System\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\HR-Managamenr-System\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "HR-Managamenr-System\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAAAHkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T13:20:39.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\HR-Managamenr-System\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "HR-Managamenr-System\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\HR-Managamenr-System\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "HR-Managamenr-System\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T14:54:51.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\HR-Managamenr-System\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "HR-Managamenr-System\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\HR-Managamenr-System\\Models\\Employee.cs",
+              "RelativeToolTip": "HR-Managamenr-System\\Models\\Employee.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAACsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T17:59:39.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SignIn.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\HR-Managamenr-System\\Views\\Home\\SignIn.cshtml",
+              "RelativeDocumentMoniker": "HR-Managamenr-System\\Views\\Home\\SignIn.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\HR-Managamenr-System\\Views\\Home\\SignIn.cshtml",
+              "RelativeToolTip": "HR-Managamenr-System\\Views\\Home\\SignIn.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T14:36:46.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SignInModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\HR-Managamenr-System\\Models\\SignInModel.cs",
+              "RelativeDocumentMoniker": "HR-Managamenr-System\\Models\\SignInModel.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\HR-Managamenr-System\\Models\\SignInModel.cs",
+              "RelativeToolTip": "HR-Managamenr-System\\Models\\SignInModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T14:27:42.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Success.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\HR-Managamenr-System\\Views\\Employee\\Success.cshtml",
+              "RelativeDocumentMoniker": "HR-Managamenr-System\\Views\\Employee\\Success.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\HR-Managamenr-System\\Views\\Employee\\Success.cshtml",
+              "RelativeToolTip": "HR-Managamenr-System\\Views\\Employee\\Success.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAYwCwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T14:37:40.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\HR-Managamenr-System\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "HR-Managamenr-System\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\HR-Managamenr-System\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "HR-Managamenr-System\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T14:26:12.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\HR-Managamenr-System\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "HR-Managamenr-System\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\HR-Managamenr-System\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "HR-Managamenr-System\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAAH4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T14:30:32.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ListEmployee.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\HR-Managamenr-System\\Views\\Employee\\ListEmployee.cshtml",
+              "RelativeDocumentMoniker": "HR-Managamenr-System\\Views\\Employee\\ListEmployee.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\HR-Managamenr-System\\Views\\Employee\\ListEmployee.cshtml",
+              "RelativeToolTip": "HR-Managamenr-System\\Views\\Employee\\ListEmployee.cshtml",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAgwLkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T14:36:56.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\HR-Managamenr-System\\Models\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "HR-Managamenr-System\\Models\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\HR-Managamenr-System\\Models\\EmployeeRepository.cs",
+              "RelativeToolTip": "HR-Managamenr-System\\Models\\EmployeeRepository.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAAAIgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T14:28:23.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "style-emp.css",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\HR-Managamenr-System\\Content\\style-emp.css",
+              "RelativeDocumentMoniker": "HR-Managamenr-System\\Content\\style-emp.css",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\HR-Managamenr-System\\Content\\style-emp.css",
+              "RelativeToolTip": "HR-Managamenr-System\\Content\\style-emp.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-16T15:06:08.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\HR-Managamenr-System\\images\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "HR-Managamenr-System\\images\\WebApiConfig.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\HR-Managamenr-System\\images\\WebApiConfig.cs",
+              "RelativeToolTip": "HR-Managamenr-System\\images\\WebApiConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T15:13:32.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\HR-Managamenr-System\\Content\\style.css",
+              "RelativeDocumentMoniker": "HR-Managamenr-System\\Content\\style.css",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\HR-Managamenr-System\\Content\\style.css",
+              "RelativeToolTip": "HR-Managamenr-System\\Content\\style.css",
+              "ViewState": "AgIAAH8CAAAAAAAAAAAgwIoCAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-16T15:32:27.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\HR-Managamenr-System\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "HR-Managamenr-System\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AbMalik-Work\\HR-Managamenr-System\\HR-Managamenr-System\\HR-Managamenr-System\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "HR-Managamenr-System\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T14:56:43.245Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 28,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
